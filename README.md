@@ -8,3 +8,4 @@ From this project you can learn:
 * EDA | visualization 
 * ML classification 
 * ML in various form 
+* ML algorithm with 100% accuracy 
